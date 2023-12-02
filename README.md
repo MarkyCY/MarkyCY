@@ -1,6 +1,6 @@
-![](https://komarev.com/ghpvc/?username=markycy&color=yellow)
 <a href="https://twitter.com/MarkyCY_" target="_blank"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FMarkyCY_&logo=x&label=MarkyCY_"></a>
-
+<a href="https://www.linkedin.com/in/marcos-j-cardenas-p-717b30239/" target="_blank"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmarcos-j-cardenas-p-717b30239%2F&logo=linkedin&label=Marcos%20J.&labelColor=81a1c1"></a>
+![](https://komarev.com/ghpvc/?username=markycy&color=yellow)
 
 <h1>Marcos J. Cardenas P. | MarkyCY</h1>
 
