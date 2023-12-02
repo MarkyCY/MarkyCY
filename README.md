@@ -7,9 +7,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=88c0d0&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Marcos+J.;I'm+a+passionate+programmer!;Welcome+to+my+Github)](https://git.io/typing-svg)
 
 <hr>
-<div>
+<div align="center">
   <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=markycy&show_icons=true&hide_border=true&theme=nord&locale=en" alt="MarkyCY stats">
-  <img width="41%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markycy&layout=compact&hide_border=true&theme=nord">
+  <img width="41%" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markycy&layout=compact&hide_border=true&theme=nord">
 </div>
 <!--
 **MarkyCY/MarkyCY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
