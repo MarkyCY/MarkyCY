@@ -8,8 +8,8 @@
 
 <hr>
 <div>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=markycy&show_icons=true&theme=nord&locale=en" alt="MarkyCY stats">
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markycy&layout=compact&theme=nord">
+  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=markycy&show_icons=true&theme=nord&locale=en" alt="MarkyCY stats">
+  <img width="41%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markycy&layout=compact&theme=nord">
 </div>
 <!--
 **MarkyCY/MarkyCY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
