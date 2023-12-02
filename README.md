@@ -1,5 +1,6 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=markycy&color=yellow)
 
+<img src="https://github-readme-stats.vercel.app/api?username=markycy&show_icons=true&theme=nord&locale=en">
 <!--
 **MarkyCY/MarkyCY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
