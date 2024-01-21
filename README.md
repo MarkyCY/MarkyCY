@@ -6,7 +6,7 @@
 <h1>Marcos J. Cardenas P. | MarkyCY</h1>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=88c0d0&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;I'm+a+Backend+Dev+focused+on+performance+and+security;Let's+build+something+amazing+together!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=88c0d0&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;I+love+building+scalable+and+efficient+systems;Let's+build+something+amazing+together!)](https://git.io/typing-svg)
 
 <hr>
 <p align="center">
